@@ -1,0 +1,17 @@
+h1 {
+    text-align: left;
+    color: cyan;
+    background-color: black;
+}
+h2 {
+    text-align: center;
+    color: white;
+    background-color: rebeccapurple;
+    font-family: cursive;
+    font-style: italic;
+}
+h3 {
+    text-align: right;
+    background-color: lightblue;
+    text-decoration: underline;
+}
